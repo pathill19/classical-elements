@@ -7,4 +7,4 @@ An SVG icon system of classical elements edited to include animations inspired b
 * Water
 * Æther
 
-The original lives [here.](https://github.com/jclayton/classical-elements/)
+The professor's original repo lives [here.](https://github.com/jclayton/classical-elements/)
